@@ -8,7 +8,7 @@
 This repository contains the practical implementation of the **Bachelor's Thesis**.
 * **Institution:** Ivan Franko National University of Lviv (Львівський національний університет імені Івана Франка)
 * **Author:** Nazarii Hreb ([@GrimLait](https://github.com/GrimLait))
-* **Academic Year:** 2024–2025
+* **Period of Study:** 2022–2027
 
 ---
 
