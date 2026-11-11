@@ -48,6 +48,7 @@ RoadGuard/
 ├── docs/             # Technical specifications, diagrams & architecture records
 ├── docker-compose.yml# Container orchestration setup
 └── README.md         # Project entry point
+```
 
 ---
 
